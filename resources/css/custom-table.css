@@ -1,0 +1,208 @@
+.mantine-ionxj9{
+    width: 100% !important;
+}
+
+.mantine-d3oese{
+    width: 100%;
+}
+
+.mantine-1wc3ure[data-active]:not([data-disabled]):hover{
+    background-color: #ff6243;
+}
+
+.mantine-1wc3ure[data-active]{
+    background-color: #ff6243;
+}
+
+.mantine-Group-root .mantine-UnstyledButton-root:hover{
+    background-color: #ff6243;
+    color: white;
+}
+
+.mantine-Group-root .mantine-UnstyledButton-root{
+    height: 30px;
+    width: 30px;
+}
+
+.mantine-wxitg4[data-active]{
+    background-color: #ff6243;
+}
+.mantine-wxitg4[data-active]:hover{
+    background-color: #ff6243 !important;
+}
+
+.mantine-asm909:hover{
+    background-color: #ff6243 !important;
+    color: white;
+}
+
+body.dark td{
+    background-color: #0E1726;
+    color: white;
+}
+body.dark tr:hover td{
+    color:white;
+    background-color: #323842c0;
+}
+
+body.dark .mantine-kq5u63{
+    background-color: #0E1726;
+}
+
+body.dark tr.mantine-1qybf08{
+    background-color: #0E1726 !important;
+}
+
+body.dark .mantine-augnbd>thead>tr>th, .mantine-augnbd>tfoot>tr>th, .mantine-augnbd>tbody>tr>th{
+    background-color: #0E1726;
+}
+
+body.dark .mantine-d3oese{
+    background-color: #0E1726;
+}
+
+body.dark .mantine-1fzet7j{
+    color: white;
+}
+
+body.dark button.mantine-UnstyledButton-root.mantine-Pagination-control.mantine-1wc3ure{
+    color: white;
+    border: 1px solid white !important;
+}
+
+body.dark button.mantine-UnstyledButton-root.mantine-Pagination-control.mantine-1wc3ure:hover{
+    border: none !important;
+}
+
+body.dark .mantine-1wc3ure[data-active]:not([data-disabled]){
+    border: none;
+}
+
+/* body.dark :is(.dark .mantine-Group-root .mantine-UnstyledButton-root){
+    border: 1px solid white !important;
+} */
+
+.mantine-augnbd[data-hover]>tbody>tr{
+    border: 2px solid red;
+}
+
+body.dark .mantine-1ihmuvx{
+    border-bottom: 2px solid;
+}
+
+body.dark :is(.dark .mantine-Table-root[data-hover] tbody tr:hover){
+    background-color: rgba(3, 3, 3, 0.76) !important;
+}
+
+body.dark .mantine-1ihmuvx .mantine-TextInput-input{
+    color: white;
+}
+
+body.dark .mantine-a5v3r0[data-with-border]{
+    border: 1px solid rgba(145, 138, 138, 0.753) !important;
+}
+
+body.dark .mantine-1v7s5f8 input.mantine-Select-input{
+    border-radius: 5px;
+    background-color: #0E1726;
+    border: 1px solid rgba(255, 255, 255, 0.555);
+    color: white;
+}
+
+body.dark .mantine-12fau64[data-with-icon]{
+    border-radius: 5px;
+    background-color: #0E1726;
+    border: 1px solid rgba(255, 255, 255, 0.555);
+    color: white;
+}
+
+body.dark .mantine-Select-rightSection svg{
+    color: white !important;
+}
+
+body.dark button.mantine-Pagination-control svg{
+    color: white;
+}
+
+.table-list-title a{
+    opacity: 0.9;
+}
+
+body.dark button.mantine-UnstyledButton-root.mantine-Pagination-control.mantine-18851x2{
+    border: 1px solid white !important;
+}
+
+body.dark button.mantine-UnstyledButton-root.mantine-Pagination-control.mantine-18851x2:hover{
+    border: unset !important;
+}
+
+body.dark .mantine-Pagination-dots.mantine-r8lv8l svg{
+    color: white ;
+}
+
+body.dark span.mantine-Menu-item.mantine-o7vefl:hover{
+    background-color: #ff6243;
+    color: white;
+}
+
+span.mantine-Menu-item.mantine-o7vefl:hover{
+    background-color: #ff6243;
+    color: white;
+}
+
+span.mantine-Menu-item.mantine-o7vefl:hover label.mantine-kegijc.mantine-Switch-label{
+    color: white;
+}
+
+body.dark label.mantine-kegijc.mantine-Switch-label{
+    color: white;
+}
+
+button.mantine-UnstyledButton-root.mantine-Button-root.mantine-qaqp46:hover{
+    background-color: #ff6243;
+    color: white;
+}
+
+.mantine-Checkbox-inner > .mantine-Checkbox-input:checked{
+    background-color: #ff6243;
+    border: none;
+}
+
+body.dark .mantine-Alert-root{
+    background-color: #0E1726;
+    color: white;
+}
+
+body.dark .mantine-Stack-root.mantine-caxjnw{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+body.dark .mantine-TableHeadCell-Content-Wrapper{
+    color: white;
+}
+
+body.dark .mantine-ooem79{
+    background-color: #0E1726;
+}
+
+body.dark button.mantine-UnstyledButton-root.mantine-Pagination-control.mantine-wxitg4{
+    color: white;
+    height: 30px;
+    width: 30px;
+}
+
+.user-profile-save-button{
+    background-color: #ff6243 !important;
+    color: white;
+    border: none;
+}
+
+.sidebar ul.sub-menu li button, .sidebar ul.sub-menu li a:hover{
+    background-color: rgba(92, 86, 86, 0.103) !important;
+    border-radius: 6px;
+}
+.mantine-12fau64[data-with-icon] {
+    border: 1px solid #c5c5c5;
+}
